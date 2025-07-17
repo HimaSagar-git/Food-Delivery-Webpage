@@ -3,11 +3,11 @@ This project is a Food Delivery Website designed to showcase a responsive and vi
 ________________________________________
 ### Project Overview
 The Food Delivery Webpage provides a clean, user-friendly interface for users to:
-1	Browse through the food categories.
-2	Explore menus and offers.
-3	Learn about healthy eating and delivery options.
-4	Follow the platform on social media.
-5	Contact the business through provided details.
+•	Browse through the food categories.
+•	Explore menus and offers.
+•	Learn about healthy eating and delivery options.
+•	Follow the platform on social media.
+•	Contact the business through provided details.
 It demonstrates front-end web development skills, including responsive design and the use of external libraries.
 ________________________________________
 ### Features
